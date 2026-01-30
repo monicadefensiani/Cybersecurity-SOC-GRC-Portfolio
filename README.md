@@ -79,5 +79,4 @@ SOC / SIEM / Incident Response Projects
 | Incident Response Planning and Execution        | <a href="https://github.com/yourusername/ook">IR Casebook</a>          |
 | Case Management with TheHive                    | <a href="https://github.com/yourusername/thehive-case-management">TheHive Case Management</a> |
 | Scripting and Automation for Threat Mitigation  | <a href="https://github.com/yourusername/threat-hunting-pack">Threat Hunting Pack</a>         |
-                     
-... *(continues unchanged)*
+  SOC IR Detection and Response                     https://github.com/monicadefensiani/SOC-IR-Detection-and-Response-Project/tree/main                    
