@@ -79,5 +79,5 @@ SOC / SIEM / Incident Response Projects
 | Incident Response Planning and Execution        | <a href="https://github.com/yourusername/incident-response-casebook">IR Casebook</a>          |
 | Case Management with TheHive                    | <a href="https://github.com/yourusername/thehive-case-management">TheHive Case Management</a> |
 | Scripting and Automation for Threat Mitigation  | <a href="https://github.com/yourusername/threat-hunting-pack">Threat Hunting Pack</a>         |
-
+Incident response and detection
 ... *(continues unchanged)*
