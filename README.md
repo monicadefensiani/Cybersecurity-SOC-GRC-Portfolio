@@ -73,11 +73,11 @@ SOC / SIEM / Incident Response Projects
 
 | Project                                         | Repository                                                                                    |
 | ----------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| SIEM Implementation and Log Analysis            | <a href="https://github.com/ceciliaonubogu/SOC-Detection-Labs">SOC Detection Lab</a>          |
+| Incident response and detection                 | https://github.com/monicadefensiani/Azure-SOC-Lab/tree/main          |
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/yourusername/detection-lab">Detection Lab</a>                     |
 | Security Automation with Shuffle SOAR           | <a href="https://github.com/yourusername/soc-automation">SOC Automation Lab</a>               |
-| Incident Response Planning and Execution        | <a href="https://github.com/yourusername/incident-response-casebook">IR Casebook</a>          |
+| Incident Response Planning and Execution        | <a href="https://github.com/yourusername/ook">IR Casebook</a>          |
 | Case Management with TheHive                    | <a href="https://github.com/yourusername/thehive-case-management">TheHive Case Management</a> |
 | Scripting and Automation for Threat Mitigation  | <a href="https://github.com/yourusername/threat-hunting-pack">Threat Hunting Pack</a>         |
-Incident response and detection
+                     
 ... *(continues unchanged)*
