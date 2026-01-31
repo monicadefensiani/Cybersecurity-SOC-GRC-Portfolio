@@ -73,7 +73,7 @@ SOC / SIEM / Incident Response Projects
 
 | Project                                         | Repository                                                                                    |
 | ----------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Incident response and detection                 | https://github.com/monicadefensiani/Azure-SOC-Lab/tree/main          |
+| Incident response and detection                 | <a href="https://github.com/monicadefensiani/Azure-SOC-Lab">Azure-SOC-Lab</a>          |
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/yourusername/detection-lab">Detection Lab</a>                     |
 | Security Automation with Shuffle SOAR           | <a href="https://github.com/yourusername/soc-automation">SOC Automation Lab</a>               |
 | Incident Response Planning and Execution        | <a href="https://github.com/yourusername/ook">IR Casebook</a>          |
